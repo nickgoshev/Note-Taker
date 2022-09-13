@@ -70,6 +70,7 @@ const handleNoteSave = () => {
   const newNote = {
     title: noteTitle.value,
     text: noteText.value,
+    // id: Math.random()*10000
   };
   saveNote(newNote).then(() => {
     getAndRenderNotes();
