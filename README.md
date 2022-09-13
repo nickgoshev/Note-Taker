@@ -1,5 +1,3 @@
-https://whispering-temple-92530.herokuapp.com/notes
-
 # Note Taker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,7 +5,7 @@ https://whispering-temple-92530.herokuapp.com/notes
 
 create, store, access notes on a live heroku server.
 
-https://whispering-temple-92530.herokuapp.com/notes
+https://whispering-temple-92530.herokuapp.com/
 
 ## Table of Contents
 
